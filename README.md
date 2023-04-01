@@ -1,6 +1,6 @@
 # Lottery-Ticket-Hypothesis
 
-Results of applying the Lottery Ticket Style of training of a Convolutional Neural Network :
+Results of performing Lottery Ticket Style of training on a Convolutional Neural Network :
 
 ![Screenshot](sparsity_vs_accuracy.png)
 ![Screenshot](rounds_vs_accuracy.png)
